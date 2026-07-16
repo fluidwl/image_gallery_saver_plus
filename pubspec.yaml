@@ -21,6 +21,8 @@ flutter:
         pluginClass: ImageGallerySaverPlusPlugin
       ios:
         pluginClass: ImageGallerySaverPlusPlugin
+      ohos:
+        pluginClass: ImageGallerySaverPlusPlugin
 
 dev_dependencies:
   flutter_test:
